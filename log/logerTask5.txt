@@ -1,0 +1,38 @@
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship1 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship1 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship1 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship2 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship2 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship2 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship3 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship3 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship3 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship3 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship4 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship4 is added.
+01.09.2014 14:09:57 [main] INFO  by.epam.task5.entity.ship.Ship - Container the Ship6 is added.
+01.09.2014 14:09:57 [pool-1-thread-1] INFO  by.epam.task5.entity.ship.Ship - Ship5 moor.
+01.09.2014 14:09:57 [pool-1-thread-1] INFO  by.epam.task5.entity.port.Port - Container from the port unloaded.
+01.09.2014 14:09:57 [pool-1-thread-1] INFO  by.epam.task5.entity.ship.Ship - Container the Ship5 is added.
+01.09.2014 14:09:57 [pool-1-thread-1] INFO  by.epam.task5.entity.ship.Ship - Ship5 salis.
+01.09.2014 14:09:57 [pool-1-thread-2] INFO  by.epam.task5.entity.ship.Ship - Ship6 moor.
+01.09.2014 14:09:57 [pool-1-thread-2] INFO  by.epam.task5.entity.ship.Ship - Container from the Ship6 unloaded.
+01.09.2014 14:09:57 [pool-1-thread-2] INFO  by.epam.task5.entity.port.Port - Container the port is added.
+01.09.2014 14:09:57 [pool-1-thread-2] INFO  by.epam.task5.entity.ship.Ship - Ship6 salis.
+01.09.2014 14:09:57 [pool-1-thread-3] INFO  by.epam.task5.entity.ship.Ship - Ship2 moor.
+01.09.2014 14:09:57 [pool-1-thread-3] INFO  by.epam.task5.entity.port.Port - Container from the port unloaded.
+01.09.2014 14:09:57 [pool-1-thread-3] INFO  by.epam.task5.entity.ship.Ship - Container the Ship2 is added.
+01.09.2014 14:09:57 [pool-1-thread-3] INFO  by.epam.task5.entity.ship.Ship - Ship2 salis.
+01.09.2014 14:09:57 [pool-1-thread-4] INFO  by.epam.task5.entity.ship.Ship - Ship3 moor.
+01.09.2014 14:09:57 [pool-1-thread-4] INFO  by.epam.task5.entity.ship.Ship - Container from the Ship3 unloaded.
+01.09.2014 14:09:57 [pool-1-thread-4] INFO  by.epam.task5.entity.port.Port - Container the port is added.
+01.09.2014 14:09:57 [pool-1-thread-4] INFO  by.epam.task5.entity.ship.Ship - Ship3 salis.
+01.09.2014 14:09:57 [pool-1-thread-5] INFO  by.epam.task5.entity.ship.Ship - Ship1 moor.
+01.09.2014 14:09:57 [pool-1-thread-5] INFO  by.epam.task5.entity.ship.Ship - Ship1 wait when the free space on the storage port.
+01.09.2014 14:09:57 [pool-1-thread-6] INFO  by.epam.task5.entity.ship.Ship - Ship4 moor.
+01.09.2014 14:09:57 [pool-1-thread-6] INFO  by.epam.task5.entity.port.Port - Container from the port unloaded.
+01.09.2014 14:09:57 [pool-1-thread-6] INFO  by.epam.task5.entity.ship.Ship - Container the Ship4 is added.
+01.09.2014 14:09:57 [pool-1-thread-6] INFO  by.epam.task5.entity.ship.Ship - Ship4 salis.
+01.09.2014 14:10:02 [pool-1-thread-5] INFO  by.epam.task5.entity.ship.Ship - Container from the Ship1 unloaded.
+01.09.2014 14:10:02 [pool-1-thread-5] INFO  by.epam.task5.entity.port.Port - Container the port is added.
+01.09.2014 14:10:02 [pool-1-thread-5] INFO  by.epam.task5.entity.ship.Ship - Ship1 salis.
